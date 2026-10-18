@@ -42,7 +42,7 @@ Missing delivery dates are mostly normal: they belong to orders that were cancel
 | 10 | Payments total R$16,008,872.12 vs item prices plus freight R$15,843,553.24; 249 orders differ by more than R$1 | Revenue is based on item prices, not payments. Payments are used only for payment mix and order value in Q7 |
 | 11 | Geolocation has 261,831 duplicate rows | Not needed, so left unused |
 
-## 4. Assumptions (one line each)
+## 4. Assumptions 
 
 1. Revenue = sum of item prices, freight excluded, on orders not canceled or unavailable. Amounts are R$ (the CSVs do not state the currency; this is from the dataset description).
 2. Late = delivered on a later calendar day than the estimated delivery date. (If measured to the exact timestamp against midnight of the estimated day, 7,826 orders, 8.1%, would be late instead of 6,534, 6.8%.)
