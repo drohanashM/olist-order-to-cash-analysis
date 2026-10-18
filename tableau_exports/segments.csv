@@ -1,0 +1,5 @@
+segment,customers,revenue,avg_recency_days,avg_score,repeat_rate
+Lapsed satisfied one-timers,32505,4470561.36,398.64,4.64,0.0
+Recent satisfied one-timers,43119,5621694.15,127.96,4.68,0.0
+Repeat buyers,2887,750468.43,226.57,4.16,1.0
+Unhappy one-time buyers,16472,2651676.8,242.39,1.63,0.0

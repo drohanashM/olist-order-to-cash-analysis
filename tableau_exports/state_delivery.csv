@@ -1,0 +1,28 @@
+customer_state,state_name,country,delivered_orders,late_pct,avg_delivery_days,avg_score
+AC,Acre,Brazil,80,3.8,21.04,4.09
+AL,Alagoas,Brazil,397,21.4,24.54,3.85
+AM,Amazonas,Brazil,145,2.8,26.43,4.24
+AP,Amapá,Brazil,67,3.0,27.19,4.24
+BA,Bahia,Brazil,3256,12.2,19.34,3.93
+CE,Ceará,Brazil,1279,13.8,21.27,3.94
+DF,Distrito Federal,Brazil,2080,5.7,12.97,4.13
+ES,Espírito Santo,Brazil,1995,10.7,15.79,4.08
+GO,Goiás,Brazil,1957,6.5,15.61,4.11
+MA,Maranhão,Brazil,717,17.4,21.57,3.83
+MG,Minas Gerais,Brazil,11354,4.6,12.01,4.19
+MS,Mato Grosso do Sul,Brazil,701,9.7,15.62,4.16
+MT,Mato Grosso,Brazil,886,6.0,18.06,4.15
+PA,Pará,Brazil,946,11.2,23.77,3.91
+PB,Paraíba,Brazil,517,10.4,20.43,4.08
+PE,Pernambuco,Brazil,1593,9.6,18.45,4.08
+PI,Piauí,Brazil,476,13.9,19.46,3.99
+PR,Paraná,Brazil,4923,4.0,11.99,4.24
+RJ,Rio de Janeiro,Brazil,12350,12.1,15.31,3.97
+RN,Rio Grande do Norte,Brazil,474,9.3,19.28,4.15
+RO,Rondônia,Brazil,243,2.9,19.37,4.17
+RR,Roraima,Brazil,41,12.2,29.39,3.9
+RS,Rio Grande do Sul,Brazil,5344,6.1,15.3,4.18
+SC,Santa Catarina,Brazil,3546,8.2,14.95,4.13
+SE,Sergipe,Brazil,335,15.2,21.52,3.91
+SP,São Paulo,Brazil,40494,4.5,8.76,4.25
+TO,Tocantins,Brazil,274,9.9,17.66,4.15

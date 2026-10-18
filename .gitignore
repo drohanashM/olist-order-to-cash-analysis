@@ -1,0 +1,9 @@
+data/
+*.db
+*_result.csv
+~$*
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
